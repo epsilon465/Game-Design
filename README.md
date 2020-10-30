@@ -1,4 +1,4 @@
-# Pong
+# Pong 2
 
 This is a Pong clone that I built to teach myself C#.
 
